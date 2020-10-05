@@ -82,8 +82,8 @@ namespace SymWin
          { Key.W, Tuple.Create(new[] { 'ẃ', 'ẁ', 'ẅ', 'ŵ' },
                                new[] { 'Ẃ', 'Ẁ', 'Ẅ', 'Ŵ' })},
 
-         { Key.X, Tuple.Create(new[] { 'Ξ', 'χ' },
-                               new[] { 'ξ', 'Χ' })},
+         { Key.X, Tuple.Create(new[] { 'Ξ', 'χ', '×' },
+                               new[] { 'ξ', 'Χ', '×' })},
 
          { Key.Y, Tuple.Create(new[] { 'ý', 'ỳ', 'ÿ', 'ŷ' },
                                new[] { 'Ý', 'Ỳ', 'Ÿ', 'Ŷ' })},
